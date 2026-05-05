@@ -1,0 +1,19 @@
+{
+    "name": "carlosruiz/aart-rcomic",
+    "description": "A plugin made for creating and managing webcomic pages with complex html structures for special comic features.",
+    "type": "project",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"./includes/classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Ruiz",
+            "email": "asequentialart@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
